@@ -1,5 +1,5 @@
 
-# Hello WELCOME with me:
+## Hello WELCOME with me:
 
 - 👋 Hi, I’m @kidtzz
 - 👀 I’m interested Web Developer
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-# 📊 Github stats
+### 📊 Github stats
 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>

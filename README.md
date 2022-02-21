@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
-<br>
 
 ### Connect with me:
 
@@ -29,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-<br>
 <br>
 
 ### Languages and Tools:

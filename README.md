@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-### 📊 Github stats
+## 📊 Github stats
 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>

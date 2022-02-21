@@ -55,7 +55,6 @@ You can click the Preview link to take a look at your changes.
 
 # 📊 Github stats
 
-<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 
@@ -63,6 +62,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 <br>
 <br>

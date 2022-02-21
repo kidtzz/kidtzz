@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/globe-light.svg)](https://kidtzz.github.io/1/portofolio.html#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://kidtzz.github.io/1/portofolio.html#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/bang16079328?t=BQQmRN5WqhC-wxzqgJKnRA&s=09#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/bang16079328?t=BQQmRN5WqhC-wxzqgJKnRA&s=09#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bangkit-prasetyo-348035201/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bangkit-prasetyo-348035201/#gh-dark-mode-only)

@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @kidtzz
 - 👀 I’m interested Web Developer
-- 🌱 I’m currently learning make project e-commerce 
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Trying to imporve myself everyday
 
 <!---
 kidtzz/kidtzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,6 +55,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Kidtzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&theme=calm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz)](https://github.com/kidtzz/github-readme-stats)
 
 <br>
 <br>

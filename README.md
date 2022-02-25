@@ -1,6 +1,5 @@
 
 ## Hello WELCOME with me: 
-(https://visitor-badge.glitch.me/badge?page_id=kidtzz.kidtzz)
 
 - 👋 Hi, I’m @kidtzz
 - 👀 I’m interested Web Developer

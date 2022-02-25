@@ -66,8 +66,8 @@ You can click the Preview link to take a look at your changes.
 <!--   <a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz&layout=compact" height="192px"/></a> -->
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
   <br/>

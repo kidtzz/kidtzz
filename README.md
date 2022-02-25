@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 
-<a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&theme=calm" height="192px"/></a>
+<!-- <a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&theme=calm" height="192px"/></a> -->
   <a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

@@ -62,8 +62,6 @@ You can click the Preview link to take a look at your changes.
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 
-<a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&theme=calm" height="192px"/></a>
-<!--   <a href="https://github.com/kidtzz/github-readme-stats"><img alt="kidtzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz&layout=compact" height="192px"/></a> -->
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

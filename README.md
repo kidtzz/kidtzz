@@ -7,6 +7,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Trying to imporve myself everyday
 
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+
+
 <!---
 kidtzz/kidtzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,6 +34,9 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/arch_kidtz/#gh-dark-mode-only)
 
 <br>
+
+
+
 
 
 ## Languages and Tools:

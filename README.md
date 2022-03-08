@@ -68,6 +68,13 @@ You can click the Preview link to take a look at your changes.
   <br/>
 
 
+[![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<br>
+<br>
+
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidtzz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>

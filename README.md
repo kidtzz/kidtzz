@@ -4,17 +4,16 @@
 - 👋 Hi, I’m @kidtzz
 - 👀 I’m interested Web Developer
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on front-end and back-end projects
 - 📫 Trying to imporve myself everyday
 
 
-<br>
+
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kidtzz&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
-<br>
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -69,21 +68,25 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kidtzz&theme=algolia" alt="7oSkaaa" /></p>
-
 <br>
-<br>
+
+
+
 
 
 ## 📊 Github stats
 
-  <summary>💻 GitHub Profile Stats</summary>
+### 🔥 Streak Stats
+
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidtzz" alt="GitHub Stats" /> <br/><br/>
+
+
+
+### 💻 GitHub Profile Stats
+  
   <br/>
-
-
-
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidtzz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

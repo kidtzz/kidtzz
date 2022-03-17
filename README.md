@@ -8,6 +8,15 @@
 - 📫 Trying to imporve myself everyday
 
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kidtzz&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
+
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
@@ -57,6 +66,12 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px; padding-top:20px; " />
 
 
+
+<br>
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kidtzz&theme=algolia" alt="7oSkaaa" /></p>
 
 <br>
 <br>

@@ -2,7 +2,7 @@
 ## Hello WELCOME with me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👋 Hi, I’m @kidtzz
-- 👀 I’m interested Web Developer
+- 👀 I’m interested Web & Apps Developer
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on front-end and back-end projects
 - 📫 Trying to imporve myself everyday

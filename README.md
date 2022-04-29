@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Streak Stats
 
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <b><em>GitHub Stats :</em></b> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidtzz" alt="GitHub Stats" /> <br/><br/>
 
 

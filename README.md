@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## Connect with me:
+## Connect With Me:
 
 [![website](./img/globe-light.svg)](https://kidtzz.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://kidtzz.netlify.app/.html#gh-dark-mode-only)

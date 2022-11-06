@@ -110,4 +110,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 clear node-module, be fast
 create login with redux
-error becouse state
+error because state

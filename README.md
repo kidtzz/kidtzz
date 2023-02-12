@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on front-end and back-end projects
 - 📫 Trying to imporve myself everyday
 
--hmm jsx x php"
+-hm jsx x php"
 
 
 

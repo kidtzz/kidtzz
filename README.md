@@ -2,12 +2,10 @@
 ## Hello Welcome With Me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 
 - 👋 Hi, I’m @kidtzz
-- 👀 I’m interested Web & Apps Developer
+- 👀 I’m interested Developer, DevOps
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on front-end and back-end projects
 - 📫 Trying to imporve myself everyday
-
--hm jsx php"
 
 
 
@@ -108,6 +106,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <br>
-clear node-module, be fast
-create login with redux
-error because state

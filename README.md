@@ -15,7 +15,7 @@
   </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Iman!+👋;I'm+a+Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Iman!+👋;I'm+a+Developer)
 
 
 

@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect With Me:
 
-[![website](./img/globe-light.svg)](https://kidtzz.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://kidtz.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://kidtz.netlify.app/.html#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/bang16079328?t=BQQmRN5WqhC-wxzqgJKnRA&s=09#gh-light-mode-only)
